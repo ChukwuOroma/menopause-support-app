@@ -1,9 +1,9 @@
 # menopause-support-app
-Culturally tailored menopause support app for Nigerian women with symptom tracking, education, and community features.
+Never Alone is a culturally tailored menopause support app for Nigerian women with symptom tracking, education, and community features.
 # Menopause Support App for Nigerian Women
 
 ## What the Product Does
-This app supports Nigerian women aged 40-50 as they navigate menopause by providing personalized education, symptom tracking, mental health support, and culturally relevant community engagement.
+Never Alone supports Nigerian women aged 40 to 50 as they navigate menopause by providing personalized education, symptom tracking, mental health support, and culturally relevant community engagement.
 
 ## Why It Matters
 Many Nigerian women face stigma, low awareness, and lack of healthcare access related to menopause. This app helps bridge these gaps, improving their health outcomes and quality of life.
